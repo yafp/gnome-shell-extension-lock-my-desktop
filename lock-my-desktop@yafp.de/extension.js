@@ -16,7 +16,7 @@ const Util = imports.misc.util;                 // to run external commands
 const Gettext = imports.gettext.domain("gnome-shell-extension-lock-my-desktop");
 const _ = Gettext.gettext;
 
-const EXTENSION_NAME = "lockMyDesktop";         // Extension name
+const EXTENSION_NAME = "lock-my-desktop";         // Extension name
 const EXTENSION_URL = "https://github.com/yafp/gnome-shell-extension-lock-my-desktop" // Extension URL
 
 const ScrollableMenu = new Lang.Class({

@@ -1,5 +1,5 @@
-SRC=lockMyDesktop@yafp.de
-DESTFOLDER=lockMyDesktop@yafp.de
+SRC=lock-my-desktop@yafp.de
+DESTFOLDER=lock-my-desktop@yafp.de
 DESTPATH=~/.local/share/gnome-shell/extensions/
 
 install:

@@ -1,11 +1,12 @@
 {
     "name": "Lock my desktop",
     "description": "Adds a menu with lock functionality to the Gnome panel", 
-    "uuid": "lockMyDesktop@yafp.de", 
+    "uuid": "lock-my-desktop@yafp.de", 
     "url": "http://github.com/yafp/gnome-shell-extension-lock-my-desktop",
     "shell-version": [
         "3.18", 
-        "3.22"
+        "3.22",
+        "3.24"
   ], 
     "version": 1
 }
