@@ -1,3 +1,5 @@
+![logo](https://raw.githubusercontent.com/yafp/gnome-shell-extension-lock-my-desktop/master/.github/lock_icon.png)
+
 # gnome-shell-extension-lock-my-desktop
 Extension for gnome-shell to lock the desktop via the gnome panel
 
